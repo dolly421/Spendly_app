@@ -1,3 +1,3 @@
 # Spendly_app
 This is my first Github repository.
-Authore - Dolly
+Authore - Dolly (Learning)
